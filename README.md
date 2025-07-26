@@ -1,4 +1,4 @@
-# Clasificación Médica con ResNet18
+# Clasificación Médica con Gemini
 
 Carpetas incluidas:
 - **notebooks/** – Jupyter Notebooks para todo el flujo: preprocesamiento, entrenamiento y análisis.
